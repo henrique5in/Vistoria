@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vistoria</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="txtReset">Olvide mi contraseña</string>
+    <string name="txtEnviar">Enviar</string>
+    <string name="txtLogOut">Logout</string>
+</resources>

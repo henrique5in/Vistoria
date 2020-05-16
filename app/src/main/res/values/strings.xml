@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vistoria</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtPassword">Senha</string>
+    <string name="txtReset">Esqueci minha senha</string>
+    <string name="txtEnviar">Enviar</string>
+    <string name="txtLogOut">Logout</string>
+</resources>
